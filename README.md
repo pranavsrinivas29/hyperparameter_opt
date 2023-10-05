@@ -1,2 +1,2 @@
-# hyperparameter_opt
-Hyperparamter Optimization Techniques
+
+Hyperparameter Optimization Techniques
